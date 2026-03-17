@@ -1,0 +1,9 @@
+<svg width="820" height="460" viewBox="0 0 820 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="820" height="460" fill="#08111F"/>
+  <rect x="40" y="40" width="740" height="380" rx="24" fill="#15304F"/>
+  <rect x="86" y="90" width="650" height="280" rx="16" fill="#0E1B2F"/>
+  <path d="M114 296L236 182L340 246L452 152L600 262L706 184V340H114V296Z" fill="#7F1D3B" fill-opacity="0.8"/>
+  <circle cx="218" cy="154" r="28" fill="#D4B16F"/>
+  <text x="118" y="124" fill="#F7F3EF" font-family="Arial, sans-serif" font-size="20">CCTV Still - East Alley Camera</text>
+  <text x="118" y="384" fill="#D4B16F" font-family="Arial, sans-serif" font-size="18">03/11/2026 02:14:07 AM</text>
+</svg>

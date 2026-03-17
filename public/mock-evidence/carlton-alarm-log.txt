@@ -1,0 +1,13 @@
+Carlton Jewelers
+Alarm Activity Excerpt
+
+Date: March 9, 2026
+Vendor: Aegis Alarm & Vault
+
+04:41:18 - Storefront glass vibration sensor triggered
+04:41:22 - Interior motion zone 3 triggered
+04:41:44 - Audible siren active
+04:42:10 - Monitoring center initiated police dispatch
+04:46:33 - First officer acknowledged on scene
+
+No prior maintenance faults were recorded in the preceding 90 days.

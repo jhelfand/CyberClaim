@@ -1,0 +1,8 @@
+<svg width="320" height="128" viewBox="0 0 320 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="128" rx="24" fill="#0E1B2F"/>
+  <path d="M48 24L88 40V68C88 88.4 71.2 105.867 48 112C24.8 105.867 8 88.4 8 68V40L48 24Z" fill="#7F1D3B"/>
+  <path d="M48 39L74 49.2V67.4C74 80.5333 63.0667 91.7333 48 96C32.9333 91.7333 22 80.5333 22 67.4V49.2L48 39Z" fill="#D4B16F"/>
+  <path d="M39 70L47.8 79L61 57" stroke="#0E1B2F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="108" y="58" fill="#F7F3EF" font-family="Georgia, serif" font-size="44" font-weight="700">GAIG</text>
+  <text x="110" y="84" fill="#D4B16F" font-family="Arial, sans-serif" font-size="16" letter-spacing="4">SECURITY CLAIMS</text>
+</svg>

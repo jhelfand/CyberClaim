@@ -1,0 +1,11 @@
+Riverside Distribution Warehouse
+False Alarm Dispatch Summary
+
+Date: March 15, 2026
+Law Enforcement Contact: Officer Sasha Wren
+
+Summary:
+- Motion detector on south loading dock activated repeatedly during high wind conditions.
+- Exterior inspection found no sign of forced entry.
+- Monitoring vendor recommended recalibration of the affected sensor.
+- Claim remains open pending triage confirmation and final vendor diagnostics.

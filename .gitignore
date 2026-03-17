@@ -1,0 +1,33 @@
+# Dependencies
+node_modules
+.next
+
+# Build output
+dist
+dist-ssr
+*.tsbuildinfo
+*.local
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+.codex_tmp/
+.mcp.json
+
+# UiPath
+.uipath
+
+# Demo uploads
+storage/uploads

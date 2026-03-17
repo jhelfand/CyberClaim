@@ -1,0 +1,5 @@
+import { IntakeForm } from "@/components/intake/IntakeForm";
+
+export default function NewClaimPage() {
+  return <IntakeForm />;
+}
